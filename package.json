@@ -1,14 +1,24 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "vpered": "node app.js"
   },
   "author": "YOUR_NAME <YOUR_EMAIL>",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "joi": "^17.4.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiPenskiy/TEST.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndreiPenskiy/TEST/issues"
+  },
+  "homepage": "https://github.com/AndreiPenskiy/TEST#readme",
+  "description": ""
 }
